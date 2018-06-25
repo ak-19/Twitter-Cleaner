@@ -2,12 +2,12 @@ Run time - Python 3<br /><br />
 
 Prerequisite - prior running scripts, one needs to create config.ini file with folowing twitter api keys:
 <p>
-&nbsp&nbsp   CONSUMER_KEY    = <YOUR VALUE GENERATED BT TWITTER GOES<br/>
-&nbsp&nbsp   CONSUMER_SECRET = <YOUR VALUE GENERATED BT TWITTER GOES<br/>
-&nbsp&nbsp   access_key      = <YOUR VALUE GENERATED BT TWITTER GOES<br/>
-&nbsp&nbsp   access_secret   = <YOUR VALUE GENERATED BT TWITTER GOES
+&nbsp&nbsp   CONSUMER_KEY    = YOUR VALUE GENERATED BT TWITTER GOES<br/>
+&nbsp&nbsp   CONSUMER_SECRET = YOUR VALUE GENERATED BT TWITTER GOES<br/>
+&nbsp&nbsp   access_key      = YOUR VALUE GENERATED BT TWITTER GOES<br/>
+&nbsp&nbsp   access_secret   = YOUR VALUE GENERATED BT TWITTER GOES
 </p>
-List of executable python scripts (names are self - explanatory):<br />
+List of executable python scripts (names are self - explanatory):
 <p>
 &nbsp&nbsp   1. delete-followers.py<br />
 &nbsp&nbsp   2. delete-likes.py<br />
