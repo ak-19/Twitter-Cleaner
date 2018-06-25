@@ -1,6 +1,6 @@
 Run time - Python 3<br /><br />
 
-Prerequisite - prior running scripts, one needs to create config.ini file with folowing twitter api keys:
+Prerequisite - prior running scripts, one needs to create config.ini file with following twitter api keys:
 <p>
     CONSUMER_KEY    = YOUR VALUE<br/>
     CONSUMER_SECRET = YOUR VALUE<br/>
